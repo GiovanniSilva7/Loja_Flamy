@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">loja_virtual</string>
+
+
+    <string name="facebook_app_id">376710697306704</string>
+
+
+    <string name="fb_login_protocol_scheme">fb376710697306704</string>
+</resources>
