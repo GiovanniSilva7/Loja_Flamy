@@ -1,13 +1,6 @@
-# loja
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+Projeto que eu fiz como freelancer Projeto de aplicativo ecommerce para lojas de varejo Um aplicativo tem como objetivo uma franquia de lojas que cada uma tenha seu aplicativo com geolocalização da loja para delivery e retirada no local, dentro do app é possivel tirar foto do produto, colocar descrição, colocar tamanho, preço e quantidade de produtos no estoque, pagina de login, onde é salvo tambem CPF e Endereço, o usuario consegue atualizar ou tambem adicionar novos endereços, cartão de credito, ou pode selecionar para retirar na loja. No app possui logins direfentes para admin e user onde o admin tem função de ver todos os usuarios e todos os pedidos, consegue postar produtos na hora e mudar o layout da pagina inicial do app, aplicando como exempolo: Novidades do dia, Promoções e colocando as fotos em formato de grade ou lista. O app possui notificações de venda e tambem andamento dos pedidos em tempo real apos a atualização feita pelo admin. Framework: Flutter. Linguagens: Dart, Kotlin, NojeJS, TypeScript. Bnaco de Dados: Firebase. A Loja que eu para quem eu fiz o aplicativo, se chama Flamy, Flamy é uma franquia com mais de 30 lojas especializadas em bolos e doces, fiz um projeto piloto para a loja Tatupe e para a matriz de vinhedo, o projeto esta totalmento localizado no git só mudei de acordo com o que eles pediram, mas basicamente o projeto é esse. -sdk: ">=2.7.0 <3.0.0" -API cielo -API CEPAberto -Firebase cupertino_icons: ^0.1.3 cloud_firestore: ^0.13.6 firebase_auth: ^0.16.1 firebase_storage: ^3.1.6 provider: ^4.1.3 carousel_pro: ^1.0.0 flutter_staggered_grid_view: ^0.3.0 transparent_image: ^1.0.0 alphabet_list_scroll_view: ^1.0.6 image_picker: ^0.6.7+1 image_cropper: ^1.2.2 uuid: ^3.0.0 dio: ^3.0.9 brasil_fields: ^0.2.0 geolocator: ^5.3.2+2 sliding_up_panel: ^1.0.2 screenshot: ^0.1.1 gallery_saver: ^2.0.1 flutter_signin_button: ^1.0.0 flutter_facebook_login: ^3.0.0 url_launcher: ^5.4.11 map_launcher: ^0.5.0 flip_card: ^0.4.4 mask_text_input_formatter: ^1.0.7 credit_card_type_detector: ^1.1.0 keyboard_actions: ^3.2.1+1 cloud_functions: ^0.5.0 cpf_cnpj_validator: ^1.0.5 firebase_messaging: ^6.0.16 flushbar: ^1.10.4 rxdart: ^0.23.1 filter_list: ^1.0.0 dev_dependencies: flutter_test: sdk: flutter lint: ^1.2.0
+- 
+- 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
